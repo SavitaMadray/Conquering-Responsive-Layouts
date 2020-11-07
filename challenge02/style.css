@@ -27,22 +27,16 @@ body {
   width: 80%;
   max-width: 750px;
   margin: 0 auto;
+}
+.intro {
   background: #23424a;
   color: white;
   padding: 50px 0;
 }
-
 .intro-content {
   width: 50%;
 }
 
-.main {
-  max-width: 750px;
-  width: 80%;
-  margin: 0 auto;
-  padding: 50px 0;
-}
-
-.intro-content2 {
+/* .intro-content2 {
   width: 50%;
-}
+} */
